@@ -12,7 +12,10 @@
     "stylelint-config-prettier": "^8.0.2",
     "stylelint-config-primer": "^9.0.0",
     "stylelint-prettier": "^1.1.2",
-    "stylelint-selector-no-utility": "^4.0.0"
+    "stylelint-selector-no-utility": "^4.0.0",
+    "minimist": ">=0.2.1",
+    "kind-of": ">=6.0.3",
+    "set-value": ">=2.0.1"
   },
   "scripts": {
     "test": "stylelint '**/*.scss'",
